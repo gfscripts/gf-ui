@@ -1,0 +1,13 @@
+GF UI 1.0.0 - GF Scripts
+Avisos, barra de progreso y texto de ayuda para FiveM.
+
+Instalación rápida:
+  1. Copia esta carpeta (gf-ui) en "resources".
+  2. En server.cfg, antes de tu framework:  ensure gf-ui
+  3. En el juego: /gfui_demo  (luego pon Config.Debug = false en config.lua)
+
+Guía completa, ESX, QBCore y ox_lib: README.md (junto a esta carpeta)
+o en https://github.com/gfscripts/gf-ui
+
+Soporte: https://discord.gg/nR78WKsqf
+Licencia: MIT (LICENSE). Fuentes: SIL OFL 1.1 (LICENCIAS/FUENTES.txt).
